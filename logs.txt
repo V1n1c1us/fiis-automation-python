@@ -1,1 +1,4 @@
-/bin/sh: /Users/c95408A/Desktop/WebPython/run.sh: Permission denied
+
+[{'Dividend Yield': '13,06'}, {'Dividend Yield': '13,25'}, {'Dividend Yield': '13,75'}, {'Dividend Yield': '14,25'}, {'Dividend Yield': '16,16'}, {'Dividend Yield': '8,55'}, {'Dividend Yield': '11,31'}, {'Dividend Yield': '13,44'}]
+
+[['Dividend Yield', '13,06'], ['Dividend Yield', '13,25'], ['Dividend Yield', '13,75'], ['Dividend Yield', '14,25'], ['Dividend Yield', '16,16'], ['Dividend Yield', '8,55'], ['Dividend Yield', '11,31'], ['Dividend Yield', '13,44']]
